@@ -8,17 +8,11 @@ A[] = {1,2,3,5}
 Output: 4
 
 Input:
-N = 4
-Arr[] = {-1,-2,-3,-4}
-Output:
--1
-Explanation:
-Max subarray sum is -1 
-of element (-1)
-
+N = 10
+A[] = {6,1,2,8,3,4,7,10,5}
+Output: 9
 Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(1)
-
 
 */
 
